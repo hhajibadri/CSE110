@@ -5,6 +5,11 @@
 My name is Hugir and I am a third year student as UCSD currently taking **CSE 110, 150B, and 105**.
 ## Programming Knowledge
 I am programmer that is proficient at Java and C++. I also know Python and a little bit of HTML but I hope to get better at those two. The first programming language I learned was Java, everyone who learns Java has engrained into them this line of code ```public static void main(String[] args)```.
+### Proficiency List (in order of proficiency)
+1. Java
+2. C++
+3. Python
+4. HTML
 ## Why I got into CS
 I got into CS not for the money but because apart from astronomy, computers had always captivated me as a kid. I vividly remember trying to teach myself Ruby when I was younger but giving up because of a lack of discipline and a fixed mindset. Here is a quote that breaks the illusion that you either get it or don't in this field.
 ## Opinion on AI
