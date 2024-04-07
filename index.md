@@ -17,7 +17,7 @@ I am programmer that is proficient at Java and C++. I also know Python and a lit
 ## Why I got into CS
 I got into CS not for the money but because apart from astronomy, computers had always captivated me as a kid. I vividly remember trying to teach myself Ruby when I was younger but giving up because of a lack of discipline and a fixed mindset. Here is a quote that breaks the illusion that you either get it or don't in this field.
 ### Goals
-[ ] Learn how to be a Software Engineer
+- [ ] Learn how to be a Software Engineer
 - [ ] Graduate from UCSD
 - [ ] Land a job as a Software Engineer
 
