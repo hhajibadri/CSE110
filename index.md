@@ -1,0 +1,2 @@
+# Welcome to my user page
+My name is Hugir and I am a third year student as UCSD currently taking **CSE 110, 150B, and 105**. I am programmer that is proficient at Java and C++. I also know Python and a little bit of HTML but I hope to get better at those two. The first programming language I learned was Java, everyone who learns Java has engrained into them this line of code ```public static void main(String[] args)```.
