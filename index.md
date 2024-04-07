@@ -1,4 +1,4 @@
-# About me
+# My User Page
 ## General Info
 My name is Hugir and I am a third year student as UCSD currently taking **CSE 110, 150B, and 105**.
 ### Facts about me
