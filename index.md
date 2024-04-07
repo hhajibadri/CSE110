@@ -28,4 +28,4 @@ As other undergrads I too am worried about the implication of AI in this field. 
 ## Random Quote
 > "No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first." - Andy Hunt
 
-[Back to the beginning](#about-me)
+## [Back to the beginning](#about-me)
